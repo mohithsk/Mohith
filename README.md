@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MOHITH S K</h1>
 <h3 align="center">As a passionate student ,I thrive in collaborative environments, Constantly seeking to improve to innovate and contribute effectively to creating impactful solutions. I am currently seeking an opportunity, where i can use my skills to the fullest and further hone it. i</h3>
 
-- 🌱 I’m currently learning **Java, SpringBoot**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
 
-- 💬 Ask me about **python,**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
